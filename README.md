@@ -22,9 +22,9 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 
 ## Some Interesting Figures 📊
 
-![fullDev9233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fullDev9233&layout=compact&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
+<!-- ![fullDev9233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fullDev9233&layout=compact&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
 
-![fullDev9233's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fullDev9233&show_icons=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
+![fullDev9233's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fullDev9233&show_icons=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d) -->
 
 <!-- https://git.io/streak-stats -->
 
