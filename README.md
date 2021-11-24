@@ -44,8 +44,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![Redux Saga](https://img.shields.io/badge/redux%20saga-89D96D?style=for-the-badge&logo=redux-saga&logoColor=000)](https://redux-saga.js.org/)
   [![Redux Thunk](https://img.shields.io/badge/redux%20thunk-89D96D?style=for-the-badge&logo=redux-saga&logoColor=000)](https://github.com/reduxjs/redux-thunk)
   [![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reacttable&logoColor=fff)](https://react-query.tanstack.com/)
-  [![React Router](https://img.shields.io/badge/react%20router%20dom-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)](https://reactrouter.com/)  
-  [![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+  [![React Router](https://img.shields.io/badge/react%20router%20dom-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)](https://reactrouter.com/)[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
   [![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)[![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
   [![Vuex](https://img.shields.io/badge/vuex-764ABC?style=for-the-badge&logo=vuex&logoColor=fff)](https://vuex.vuejs.org/)
@@ -61,8 +60,8 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 - **Blockchain**
   [![Web3](https://img.shields.io/badge/web3-E34F26?style=for-the-badge&logo=web3&logoColor=fff)](https://web3js.readthedocs.io/en/v1.5.2/)
   [![Web3-React](https://img.shields.io/badge/web3%20react-E34F26?style=for-the-badge&logo=web3react&logoColor=fff)](https://www.npmjs.com/package/@web3-react/core)
-  [![EtherJs](https://img.shields.io/badge/etherjs?style=for-the-badge&logo=etherjs&logoColor=fff)](https://docs.ethers.io/v5/)
-  [![IPFS](https://img.shields.io/badge/ipfs?style=for-the-badge&logo=ipfs&logoColor=fff)](https://ipfs.io/)
+  [![Ethers](https://img.shields.io/badge/Ethers.js-35495E?style=for-the-badge&logo=ethers.js&logoColor=4FC08D)](https://docs.ethers.io/v5/)
+  [![IPFS](https://img.shields.io/badge/IPFS.io-F7DF1E?style=for-the-badge&logo=ipfs.io&logoColor=000)](https://ipfs.io/)
  
 - **Back End & Cloud Services**
 
@@ -104,7 +103,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
     [![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
     [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
     [![Microsoft Teams](https://img.shields.io/badge/microsoft%20teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=fff)](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software/)
-    [![Zeplin](icons/zeplin.svg)](https://zeplin.io/)
     [![MIRO](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro)](https://miro.com/)
     [![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://figma.com/)
 
