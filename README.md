@@ -58,11 +58,16 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=fff)](https://graphql.org/)
   
 - **Blockchain**
+
   [![Web3](https://img.shields.io/badge/web3-E34F26?style=for-the-badge&logo=web3&logoColor=fff)](https://web3js.readthedocs.io/en/v1.5.2/)
   [![Web3-React](https://img.shields.io/badge/web3%20react-E34F26?style=for-the-badge&logo=web3react&logoColor=fff)](https://www.npmjs.com/package/@web3-react/core)
   [![Ethers](https://img.shields.io/badge/Ethers.js-35495E?style=for-the-badge&logo=ethers.js&logoColor=4FC08D)](https://docs.ethers.io/v5/)
   [![IPFS](https://img.shields.io/badge/IPFS.io-F7DF1E?style=for-the-badge&logo=ipfs.io&logoColor=000)](https://ipfs.io/)
- 
+  [![Solidity](https://img.shields.io/badge/solidity%20css-38B2AC?style=for-the-badge&logo=solidity&logoColor=fff)](https://docs.soliditylang.org/en/v0.8.10/)
+  [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin.com-0170FE?style=for-the-badge&logo=OpenZeppelin&logoColor=fff)](https://openzeppelin.com/)
+  [![Opensea](https://img.shields.io/badge/Opensea.io-0170FE?style=for-the-badge&logo=Opensea&logoColor=fff)](https://opensea.io/)
+  [![Metamask](https://img.shields.io/badge/Metamask.io-FF4154?style=for-the-badge&logo=metamask&logoColor=fff)](https://metamask.io/)
+
 - **Back End & Cloud Services**
 
   [![Node JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en/)
