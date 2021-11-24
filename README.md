@@ -62,11 +62,13 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![Web3](https://img.shields.io/badge/web3-E34F26?style=for-the-badge&logo=web3&logoColor=fff)](https://web3js.readthedocs.io/en/v1.5.2/)
   [![Web3-React](https://img.shields.io/badge/web3%20react-E34F26?style=for-the-badge&logo=web3react&logoColor=fff)](https://www.npmjs.com/package/@web3-react/core)
   [![Ethers](https://img.shields.io/badge/Ethers.js-35495E?style=for-the-badge&logo=ethers.js&logoColor=4FC08D)](https://docs.ethers.io/v5/)
-  [![IPFS](https://img.shields.io/badge/IPFS.io-F7DF1E?style=for-the-badge&logo=ipfs.io&logoColor=000)](https://ipfs.io/)
-  [![Solidity](https://img.shields.io/badge/solidity%20css-38B2AC?style=for-the-badge&logo=solidity&logoColor=fff)](https://docs.soliditylang.org/en/v0.8.10/)
-  [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin.com-0170FE?style=for-the-badge&logo=OpenZeppelin&logoColor=fff)](https://openzeppelin.com/)
-  [![Opensea](https://img.shields.io/badge/Opensea.io-0170FE?style=for-the-badge&logo=Opensea&logoColor=fff)](https://opensea.io/)
-  [![Metamask](https://img.shields.io/badge/Metamask.io-FF4154?style=for-the-badge&logo=metamask&logoColor=fff)](https://metamask.io/)
+  [![IPFS](https://img.shields.io/badge/IPFS-F7DF1E?style=for-the-badge&logo=ipfs.io&logoColor=000)](https://ipfs.io/)
+  [![Solidity](https://img.shields.io/badge/Solidity-38B2AC?style=for-the-badge&logo=solidity&logoColor=fff)](https://docs.soliditylang.org/en/v0.8.10/)
+  [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-0170FE?style=for-the-badge&logo=OpenZeppelin&logoColor=fff)](https://openzeppelin.com/)
+  [![Metamask](https://img.shields.io/badge/Metamask-FF4154?style=for-the-badge&logo=metamask&logoColor=fff)](https://metamask.io/)
+  [![Ethereum](https://img.shields.io/badge/Ethereum-0170FE?style=for-the-badge&logo=ethereum&logoColor=fff)](https://opensea.io/)
+  [![BSC](https://img.shields.io/badge/BSC-CC6699?style=for-the-badge&logo=bsc&logoColor=fff)](https://sass-lang.com/)
+  [![Polygon](https://img.shields.io/badge/Polygon-7952B3?style=for-the-badge&logo=polygon&logoColor=fff)](https://getbootstrap.com/)
 
 - **Back End & Cloud Services**
 
