@@ -22,7 +22,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 
 ## Websites I've built on 🚀
 
-[![ZAP(NFT marketplace)](https://app.zap.org)](https://github.com/zapproject/app.zap.org
+[![ZAP(NFT marketplace)](https://app.zap.org)](https://github.com/zapproject/app.zap.org)
 
 [![NFT Minting](https://moonsdao.io)](https://moonsdao.io)
 
@@ -54,8 +54,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reacttable&logoColor=fff)](https://react-query.tanstack.com/)
   [![React Router](https://img.shields.io/badge/react%20router%20dom-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)](https://reactrouter.com/)  
   [![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
-  [![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
-  [![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)
+  [![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)[![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
   [![Vuex](https://img.shields.io/badge/vuex-764ABC?style=for-the-badge&logo=vuex&logoColor=fff)](https://vuex.vuejs.org/)
   [![Vuetify](https://img.shields.io/badge/vuetify-764ABC?style=for-the-badge&logo=vuetify&logoColor=fff)](https://vuetifyjs.com/)
@@ -70,8 +69,8 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 - **Blockchain**
   [![Web3](https://img.shields.io/badge/web3-E34F26?style=for-the-badge&logo=web3&logoColor=fff)](https://web3js.readthedocs.io/en/v1.5.2/)
   [![Web3-React](https://img.shields.io/badge/web3%20react-E34F26?style=for-the-badge&logo=web3react&logoColor=fff)](https://www.npmjs.com/package/@web3-react/core)
-  [![EtherJs](https://img.shields.io/badge/ether?style=for-the-badge&logo=etherjs&logoColor=fff)](https://docs.ethers.io/v5/)
-  [![IPFS](https://img.shields.io/badge/ether?style=for-the-badge&logo=ipfs&logoColor=fff)](https://ipfs.io/)
+  [![EtherJs](https://img.shields.io/badge/etherjs?style=for-the-badge&logo=etherjs&logoColor=fff)](https://docs.ethers.io/v5/)
+  [![IPFS](https://img.shields.io/badge/ipfs?style=for-the-badge&logo=ipfs&logoColor=fff)](https://ipfs.io/)
  
 - **Back End & Cloud Services**
 
@@ -95,7 +94,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)](https://eslint.org/)
   [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)](https://jestjs.io/)
   [![Lodash](https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=fff)](https://lodash.com/)
-  [![Moment JS](icons/moment-js.svg)](https://momentjs.com/)
   [![iTerm2](https://img.shields.io/badge/iTerm2-000?style=for-the-badge&logo=iterm2&logoColor=fff)](https://iterm2.com/)
   [![Oh My Zsh](https://img.shields.io/badge/oh%20my%20zsh-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=fff)](https://ohmyz.sh/)
 
@@ -117,7 +115,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
     [![Zeplin](icons/zeplin.svg)](https://zeplin.io/)
     [![MIRO](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro)](https://miro.com/)
     [![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://figma.com/)
-    [![Slides](https://img.shields.io/badge/slides-E4637C?style=for-the-badge&logo=slides&logoColor=fff)](https://slides.com/vinaysharma7811)
 
   - **Code Editor & Package Manager**
 
