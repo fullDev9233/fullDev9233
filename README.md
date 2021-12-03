@@ -28,7 +28,32 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 
 <!-- https://git.io/streak-stats -->
 
-![fullDev9233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fullDev9233&theme=dark&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&dates=8b949e)
+<!-- ![fullDev9233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fullDev9233&theme=dark&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&dates=8b949e) -->
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{fullDev9233}/count.svg" alt="fullDev9233 :: Visitor's Count" /></p>
+
+<h4 align="center">GitHub Statistics:</h4>
+<p align="center">
+<a href="https://github.com/Timon0305">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fullDev9233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fullDev9233&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=fullDev9233&theme=radical&hide_border=true)
+</p>
+
+
+
+<p align="centre">
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fullDev9233&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+</p>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=fullDev9233&theme=juicyfresh&no-bg=true" />
 
 ## Technologies & Tools 🛠️
 
