@@ -20,7 +20,7 @@ Thanks for reaching out! I am a **Blockchain and Full-Stack** developer with **R
 
 Additionally, I **actively** participate in **code reviews** & contribute to **open source** and **passively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates.
 
-<h2 align="center">Github stats :bar_chart</h2>
+<h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
