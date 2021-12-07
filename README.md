@@ -20,16 +20,7 @@ Thanks for reaching out! I am a **Blockchain and Full-Stack** developer with **R
 
 Additionally, I **actively** participate in **code reviews** & contribute to **open source** and **passively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates.
 
-## Some Interesting Figures 📊
-
-<!-- ![fullDev9233's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fullDev9233&layout=compact&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
-
-![fullDev9233's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fullDev9233&show_icons=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d) -->
-
-<!-- https://git.io/streak-stats -->
-
-<!-- ![fullDev9233's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fullDev9233&theme=dark&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&dates=8b949e) -->
-<h2 align="center">Github stats :bar_chart:</h2>
+## Github stats :bar_chart
 
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
