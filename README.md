@@ -25,7 +25,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
 <a href="https://github.com/fullDev9233">
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fullDev9233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fullDev9233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fullDev9233&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -38,7 +38,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=PatrickAlphaC&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=fullDev9233&theme=juicyfresh&no-bg=true" />
 
 ## Technologies & Tools 🛠️
 
