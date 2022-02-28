@@ -9,7 +9,7 @@
   <a href="mailto:mazanatolii9300@gmail.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
   </a>
-  <a href="https://drive.google.com/file/d/1AmukyrD-P1W5AT_NLjPqfUyR6NlnYD5E/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1deog9ERhS-KcUDoUNILY_PGDcyyY3d3Q/view?usp=sharing">
     <img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=readthedocs&logoColor=fff">
   </a>
 </div>
