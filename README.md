@@ -16,7 +16,7 @@
 
 <br>
 
-Thanks for reaching out! I am a **Blockchain and Full-Stack** developer with **React**, **Redux**, **Redux-Saga**, **React Hooks**, **Storybook**, **Styled-Components**, **Material UI**, **JavaScript with ES 6+**, **TypeScript**, **Web3**, **Ether.js**, **IPFS(Moralis, Pinata)**,  and **Node.js**. Right now, I work as a **Blockchain** developer in **Blockchain Center** and handle the **development**, **debugging**, **deployment**, and **documentation** of the web and blockchain app.
+Thanks for reaching out! I am a **Blockchain and Full-Stack** developer with **React**, **Redux**, **Redux-Saga**, **React Hooks**, **Storybook**, **Styled-Components**, **Material UI**, **JavaScript with ES 6+**, **TypeScript**, **Web3**, **Ether.js**, **IPFS(Moralis, Pinata)**,  and **Node.js**. Right now, I work as a **Senior Frontend/Web3** developer and handle the **development**, **debugging**, **deployment**, and **documentation** of the web and blockchain app.
 
 Additionally, I **actively** participate in **code reviews** & contribute to **open source** and **passively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates.
 
