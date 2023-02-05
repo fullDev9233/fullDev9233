@@ -16,7 +16,7 @@
 
 <br>
 
-Thanks for reaching out! I am a **Blockchain and Full-Stack** developer with **React**, **Redux**, **Redux-Saga**, **React Hooks**, **Storybook**, **Styled-Components**, **Material UI**, **JavaScript with ES 6+**, **TypeScript**, **Web3**, **Ether.js**, **IPFS(Moralis, Pinata)**,  and **Node.js**. Right now, I work as a **Senior Frontend/Web3** developer and handle the **development**, **debugging**, **deployment**, and **documentation** of the web and blockchain app.
+Thanks for reaching out! I am a **Blockchain and Full-Stack** developer with **React**, **Next**, **Redux**, **Redux-Saga**, **React Hooks**, **Storybook**, **Styled-Components**, **Material UI**, **JavaScript with ES 6+**, **TypeScript**, **Web3**, **Ether.js**, **IPFS, **Moralis**, **Node.js**, and **MongoDB**. Right now, I work as a **Senior Front-end | Web3** developer and handle the **development**, **debugging**, **deployment**, and **documentation** of the web and blockchain app.
 
 Additionally, I **actively** participate in **code reviews** & contribute to **open source** and **passively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates.
 
@@ -28,12 +28,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fullDev9233&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fullDev9233&layout=compact&count_private=true&&langs_count=8&theme=algolia"/>
 </a>
-</p>
-
-
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fullDev9233&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
